@@ -1,0 +1,5 @@
+// MicroModule build file where you can declare MicroModule dependencies.
+
+dependencies {
+    implementation fileTree(dir: 'Plugs1/libs', include: ['*.jar'])
+}

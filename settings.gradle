@@ -1,0 +1,4 @@
+rootProject.name = "MyDemoTest"
+include ':app'
+include ':TestLibrary'
+include ':TLibrary'
