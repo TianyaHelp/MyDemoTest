@@ -1,4 +1,4 @@
-package com.example.mydemotest;
+package com.facebook.mydemotest;
 
 import org.junit.Test;
 

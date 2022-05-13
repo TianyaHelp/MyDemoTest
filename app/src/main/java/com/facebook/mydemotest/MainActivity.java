@@ -1,4 +1,4 @@
-package com.example.mydemotest;
+package com.facebook.mydemotest;
 
 import android.os.Bundle;
 
@@ -13,7 +13,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.example.mydemotest.databinding.ActivityMainBinding;
+import com.facebook.mydemotest.databinding.ActivityMainBinding;
 
 import android.view.Menu;
 import android.view.MenuItem;

@@ -1,4 +1,4 @@
-package com.example.mydemotest;
+package com.facebook.mydemotest;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
-import com.example.mydemotest.databinding.FragmentSecondBinding;
+import com.facebook.mydemotest.databinding.FragmentSecondBinding;
 
 public class SecondFragment extends Fragment {
 
